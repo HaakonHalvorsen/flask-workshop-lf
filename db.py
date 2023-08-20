@@ -1,1 +1,3 @@
-# Not implemented
+from flask_sqlalchemy import SQLAlchemy
+
+db = SQLAlchemy()
